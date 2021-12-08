@@ -1,13 +1,8 @@
 package com.gmail.olgabots.session.simple.example;
 
 import java.io.IOException;
-import java.text.DateFormat;
-import java.text.NumberFormat;
-import java.text.ParseException;
-import java.util.Date;
 import java.util.Enumeration;
 import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 
 import javax.servlet.ServletException;
